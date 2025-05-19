@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.tabela-periodica {
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffe785;
+  text-align: center;
+}
+
+.tabela-periodica td {
+  width: 60px;
+  height: 60px;
+  vertical-align: middle;
+}
+
+.tabela-periodica td div {
+  text-align: center;
+  font-size: 12px;
+  color: #000;
+  height: 45px;
+}
+
+.tabela-periodica td strong {
+  font-size: 23px;
+}
