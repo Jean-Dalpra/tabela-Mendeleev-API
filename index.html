@@ -1,15 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tabela Periódica Interativa</title>
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/1974/1974404.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/6697/6697379.png" type="image/x-icon">
 </head>
+
 <body>
-   
+    <canvas id="star-bg"></canvas>
+    <audio id="space-audio" src="./music/starlight-harmonies-185900.mp3" autoplay loop style="display:none"></audio>
+    <script>
+        document.addEventListener('click', function playAudioOnce() {
+            const audio = document.getElementById('space-audio');
+            if (audio && audio.paused) {
+                audio.play().catch(() => { });
+            }
+            document.removeEventListener('click', playAudioOnce);
+        });
+    </script>
+    <div class="setatopoum"></div>
+    <div class="setatopodois"></div>
+    <div class="setaum"></div>
+    <div class="setaumlado"></div>
+    <div class="setaumseta"></div>
+    <div class="setadois"></div>
+    <div class="setadoislado"></div>
+    <div class="setadoisseta"></div>
+    <div class="atom">
+        <h2>Átomo</h2>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
     <script src="data.js"></script>
+    <script src="elementos.js"></script>
     <script src="script.js"></script>
 </body>
+
 </html>

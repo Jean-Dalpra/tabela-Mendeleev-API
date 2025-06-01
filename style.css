@@ -1,57 +1,193 @@
 body {
-    display: flex;
-    justify-content: center;
-    margin: 20px;
-    background-color: #ffe785;
-  }
-  .tabela-periodica {
-    margin: 20px auto;
-    padding: 20px;
-    border-radius: 10px;
-    background-color: #fbfbfb;
-    text-align: center;
-    margin-left: 10px;
-    margin-top:60px;
-  }
-  .tabela-periodica td {
-    width: 60px;
-    height: 60px;
-    vertical-align: middle;
-    user-select:none;
-  }
-  .tabela-periodica td:hover {
-    filter: brightness(0.9);
-    position: fixed;
-  }
-  .hover-fixo{
-    filter: brightness(0.9);
-    width: 60px;
-    position: fixed;
-  }
-  .tabela-periodica td div {
-    text-align: center;
-    font-size: 12px;
-    color: #000;
-    height: 45px;
-  }
-  .tabela-periodica td strong {
-    font-size: 23px;
-    cursor: pointer;
-  }
-  .imagem-elemento{
-  width: 27%;
-  height: 40%;
-  margin-top: -120px;
-  margin-left: -10px;
-  }
-    .imagem-elemento h2{
-    font-size: 30px;
-    padding-top: 10px;
-    
-    }
-    
-    .imagem-elemento h3{
-    font-size: 16px;
-    margin-top: -22px;
-    }
- 
+  display: flex;
+  justify-content: center;
+  background-color: #1c2027;
+  cursor: default;
+}
+
+#star-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  z-index: -1;
+  pointer-events: none;
+  display: block;
+}
+
+.tabela-periodica {
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fbfbfb;
+  text-align: center;
+  margin-left: 10px;
+  margin-top: 40px;
+}
+
+.tabela-periodica td {
+  width: 43px;
+  height: 5px;
+  vertical-align: middle;
+  user-select: none;
+}
+
+.tabela-periodica td:hover {
+  filter: brightness(0.9);
+  transform: translateY(-2px);
+}
+
+.hover-fixo {
+  filter: brightness(0.8);
+  width: 30px;
+  position: fixed;
+  transform: translateY(-2px);
+}
+
+.tabela-periodica td div {
+  text-align: center;
+  font-size: 12px;
+  color: #000;
+  height: 35px;
+  width: 35px;
+  cursor: grab;
+}
+
+.tabela-periodica td strong {
+  font-size: 17px;
+}
+
+.imagem-elemento {
+  width: 22%;
+  height: 58%;
+  margin-top: -93px;
+  margin-left: -9px;
+  position: fixed;
+  border-radius: 5px;
+}
+
+.imagem-elemento h2 {
+  font-size: 20px;
+  padding-top: 8px;
+
+}
+
+.imagem-elemento h3 {
+  font-size: 10px;
+  margin-top: -17px;
+}
+
+.setaum {
+  height: 118px;
+  background-color: #303030;
+  display: block;
+  width: 2px;
+  position: fixed;
+  margin-top: 320px;
+  margin-left: -950px;
+}
+
+.setaumlado {
+  height: 2px;
+  background-color: #303030;
+  display: block;
+  width: 20px;
+  position: fixed;
+  margin-top: 436px;
+  margin-left: -930px;
+}
+
+.setaumseta {
+  height: 2px;
+  width: 2px;
+  display: block;
+  position: fixed;
+  margin-top: 431px;
+  margin-left: -908px;
+  border-top: 5px solid rgba(0, 0, 0, 0);
+  border-right: 5px solid rgba(0, 0, 177, 0);
+  border-bottom: 5px solid rgba(0, 128, 0, 0);
+  border-left: 6px solid #303030;
+}
+
+.setadois {
+  height: 108px;
+  background-color: #303030;
+  display: block;
+  width: 2px;
+  position: fixed;
+  margin-top: 380px;
+  margin-left: -970px;
+}
+
+.setadoislado {
+  height: 2px;
+  background-color: #303030;
+  display: block;
+  width: 20px;
+  position: fixed;
+  margin-top: 486px;
+  margin-left: -950px;
+}
+
+.setadoisseta {
+  height: 2px;
+  width: 2px;
+  display: block;
+  position: fixed;
+  margin-top: 481px;
+  margin-left: -920px;
+  border-top: 5px solid rgba(0, 0, 0, 0);
+  border-right: 5px solid rgba(0, 0, 177, 0);
+  border-bottom: 5px solid rgba(0, 128, 0, 0);
+  border-left: 6px solid #303030;
+}
+
+.setatopoum {
+  height: 2px;
+  background-color: #303030;
+  display: block;
+  width: 15px;
+  position: fixed;
+  margin-top: 320px;
+  margin-left: -965px;
+}
+
+.setatopodois {
+  height: 2px;
+  background-color: #303030;
+  display: block;
+  width: 15px;
+  position: fixed;
+  margin-top: 380px;
+  margin-left: -984px;
+}
+
+.atom {
+  width: 310px;
+  height: 190px;
+  border: 2px dashed #888;
+  margin-left: 944px;
+  border-radius: 10px;
+  margin-top: 340px;
+  background-color: white;
+  position: fixed;
+}
+
+.atom h2 {
+  text-align: center;
+  font-size: 24px;
+  color: rgb(0, 141, 206);
+  margin-top: 2px;
+  font-family: 'Segoe UI', 'Roboto', Arial, Helvetica, sans-serif;
+  text-shadow:
+    -1px -1px 0 #003366,
+    1px -1px 0 #003366,
+    -1px 1px 0 #003366,
+    -1px 1px 0 rgb(0, 118, 173),
+    0px -1px 0 rgb(0, 118, 173),
+    0px 1px 0 rgb(0, 118, 173),
+    -1px 0px 0 rgb(0, 118, 173),
+    1px 0px 0 rgb(0, 118, 173);
+}

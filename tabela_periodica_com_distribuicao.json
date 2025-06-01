@@ -1,0 +1,1470 @@
+[
+    {
+        "elemento": "H",
+        "protons": 1,
+        "neutrons": 0,
+        "eletrons": 1,
+        "distribuicao": [
+            1
+        ]
+    },
+    {
+        "elemento": "He",
+        "protons": 2,
+        "neutrons": 2,
+        "eletrons": 2,
+        "distribuicao": [
+            2
+        ]
+    },
+    {
+        "elemento": "Li",
+        "protons": 3,
+        "neutrons": 4,
+        "eletrons": 3,
+        "distribuicao": [
+            2,
+            1
+        ]
+    },
+    {
+        "elemento": "Be",
+        "protons": 4,
+        "neutrons": 5,
+        "eletrons": 4,
+        "distribuicao": [
+            2,
+            2
+        ]
+    },
+    {
+        "elemento": "B",
+        "protons": 5,
+        "neutrons": 6,
+        "eletrons": 5,
+        "distribuicao": [
+            2,
+            3
+        ]
+    },
+    {
+        "elemento": "C",
+        "protons": 6,
+        "neutrons": 6,
+        "eletrons": 6,
+        "distribuicao": [
+            2,
+            4
+        ]
+    },
+    {
+        "elemento": "N",
+        "protons": 7,
+        "neutrons": 7,
+        "eletrons": 7,
+        "distribuicao": [
+            2,
+            5
+        ]
+    },
+    {
+        "elemento": "O",
+        "protons": 8,
+        "neutrons": 8,
+        "eletrons": 8,
+        "distribuicao": [
+            2,
+            6
+        ]
+    },
+    {
+        "elemento": "F",
+        "protons": 9,
+        "neutrons": 10,
+        "eletrons": 9,
+        "distribuicao": [
+            2,
+            7
+        ]
+    },
+    {
+        "elemento": "Ne",
+        "protons": 10,
+        "neutrons": 10,
+        "eletrons": 10,
+        "distribuicao": [
+            2,
+            8
+        ]
+    },
+    {
+        "elemento": "Na",
+        "protons": 11,
+        "neutrons": 12,
+        "eletrons": 11,
+        "distribuicao": [
+            2,
+            8,
+            1
+        ]
+    },
+    {
+        "elemento": "Mg",
+        "protons": 12,
+        "neutrons": 12,
+        "eletrons": 12,
+        "distribuicao": [
+            2,
+            8,
+            2
+        ]
+    },
+    {
+        "elemento": "Al",
+        "protons": 13,
+        "neutrons": 14,
+        "eletrons": 13,
+        "distribuicao": [
+            2,
+            8,
+            3
+        ]
+    },
+    {
+        "elemento": "Si",
+        "protons": 14,
+        "neutrons": 14,
+        "eletrons": 14,
+        "distribuicao": [
+            2,
+            8,
+            4
+        ]
+    },
+    {
+        "elemento": "P",
+        "protons": 15,
+        "neutrons": 16,
+        "eletrons": 15,
+        "distribuicao": [
+            2,
+            8,
+            5
+        ]
+    },
+    {
+        "elemento": "S",
+        "protons": 16,
+        "neutrons": 16,
+        "eletrons": 16,
+        "distribuicao": [
+            2,
+            8,
+            6
+        ]
+    },
+    {
+        "elemento": "Cl",
+        "protons": 17,
+        "neutrons": 18,
+        "eletrons": 17,
+        "distribuicao": [
+            2,
+            8,
+            7
+        ]
+    },
+    {
+        "elemento": "Ar",
+        "protons": 18,
+        "neutrons": 22,
+        "eletrons": 18,
+        "distribuicao": [
+            2,
+            8,
+            8
+        ]
+    },
+    {
+        "elemento": "K",
+        "protons": 19,
+        "neutrons": 20,
+        "eletrons": 19,
+        "distribuicao": [
+            2,
+            8,
+            9
+        ]
+    },
+    {
+        "elemento": "Ca",
+        "protons": 20,
+        "neutrons": 20,
+        "eletrons": 20,
+        "distribuicao": [
+            2,
+            8,
+            10
+        ]
+    },
+    {
+        "elemento": "Sc",
+        "protons": 21,
+        "neutrons": 24,
+        "eletrons": 21,
+        "distribuicao": [
+            2,
+            8,
+            11
+        ]
+    },
+    {
+        "elemento": "Ti",
+        "protons": 22,
+        "neutrons": 26,
+        "eletrons": 22,
+        "distribuicao": [
+            2,
+            8,
+            12
+        ]
+    },
+    {
+        "elemento": "V",
+        "protons": 23,
+        "neutrons": 28,
+        "eletrons": 23,
+        "distribuicao": [
+            2,
+            8,
+            13
+        ]
+    },
+    {
+        "elemento": "Cr",
+        "protons": 24,
+        "neutrons": 28,
+        "eletrons": 24,
+        "distribuicao": [
+            2,
+            8,
+            14
+        ]
+    },
+    {
+        "elemento": "Mn",
+        "protons": 25,
+        "neutrons": 30,
+        "eletrons": 25,
+        "distribuicao": [
+            2,
+            8,
+            15
+        ]
+    },
+    {
+        "elemento": "Fe",
+        "protons": 26,
+        "neutrons": 30,
+        "eletrons": 26,
+        "distribuicao": [
+            2,
+            8,
+            16
+        ]
+    },
+    {
+        "elemento": "Co",
+        "protons": 27,
+        "neutrons": 32,
+        "eletrons": 27,
+        "distribuicao": [
+            2,
+            8,
+            17
+        ]
+    },
+    {
+        "elemento": "Ni",
+        "protons": 28,
+        "neutrons": 31,
+        "eletrons": 28,
+        "distribuicao": [
+            2,
+            8,
+            18
+        ]
+    },
+    {
+        "elemento": "Cu",
+        "protons": 29,
+        "neutrons": 35,
+        "eletrons": 29,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            1
+        ]
+    },
+    {
+        "elemento": "Zn",
+        "protons": 30,
+        "neutrons": 35,
+        "eletrons": 30,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            2
+        ]
+    },
+    {
+        "elemento": "Ga",
+        "protons": 31,
+        "neutrons": 39,
+        "eletrons": 31,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            3
+        ]
+    },
+    {
+        "elemento": "Ge",
+        "protons": 32,
+        "neutrons": 41,
+        "eletrons": 32,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            4
+        ]
+    },
+    {
+        "elemento": "As",
+        "protons": 33,
+        "neutrons": 42,
+        "eletrons": 33,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            5
+        ]
+    },
+    {
+        "elemento": "Se",
+        "protons": 34,
+        "neutrons": 45,
+        "eletrons": 34,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            6
+        ]
+    },
+    {
+        "elemento": "Br",
+        "protons": 35,
+        "neutrons": 45,
+        "eletrons": 35,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            7
+        ]
+    },
+    {
+        "elemento": "Kr",
+        "protons": 36,
+        "neutrons": 48,
+        "eletrons": 36,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            8
+        ]
+    },
+    {
+        "elemento": "Rb",
+        "protons": 37,
+        "neutrons": 48,
+        "eletrons": 37,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            9
+        ]
+    },
+    {
+        "elemento": "Sr",
+        "protons": 38,
+        "neutrons": 50,
+        "eletrons": 38,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            10
+        ]
+    },
+    {
+        "elemento": "Y",
+        "protons": 39,
+        "neutrons": 50,
+        "eletrons": 39,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            11
+        ]
+    },
+    {
+        "elemento": "Zr",
+        "protons": 40,
+        "neutrons": 51,
+        "eletrons": 40,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            12
+        ]
+    },
+    {
+        "elemento": "Nb",
+        "protons": 41,
+        "neutrons": 52,
+        "eletrons": 41,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            13
+        ]
+    },
+    {
+        "elemento": "Mo",
+        "protons": 42,
+        "neutrons": 54,
+        "eletrons": 42,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            14
+        ]
+    },
+    {
+        "elemento": "Tc",
+        "protons": 43,
+        "neutrons": 55,
+        "eletrons": 43,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            15
+        ]
+    },
+    {
+        "elemento": "Ru",
+        "protons": 44,
+        "neutrons": 57,
+        "eletrons": 44,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            16
+        ]
+    },
+    {
+        "elemento": "Rh",
+        "protons": 45,
+        "neutrons": 58,
+        "eletrons": 45,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            17
+        ]
+    },
+    {
+        "elemento": "Pd",
+        "protons": 46,
+        "neutrons": 60,
+        "eletrons": 46,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            18
+        ]
+    },
+    {
+        "elemento": "Ag",
+        "protons": 47,
+        "neutrons": 61,
+        "eletrons": 47,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            19
+        ]
+    },
+    {
+        "elemento": "Cd",
+        "protons": 48,
+        "neutrons": 64,
+        "eletrons": 48,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            20
+        ]
+    },
+    {
+        "elemento": "In",
+        "protons": 49,
+        "neutrons": 66,
+        "eletrons": 49,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            21
+        ]
+    },
+    {
+        "elemento": "Sn",
+        "protons": 50,
+        "neutrons": 69,
+        "eletrons": 50,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            22
+        ]
+    },
+    {
+        "elemento": "Sb",
+        "protons": 51,
+        "neutrons": 71,
+        "eletrons": 51,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            23
+        ]
+    },
+    {
+        "elemento": "Te",
+        "protons": 52,
+        "neutrons": 76,
+        "eletrons": 52,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            24
+        ]
+    },
+    {
+        "elemento": "I",
+        "protons": 53,
+        "neutrons": 74,
+        "eletrons": 53,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            25
+        ]
+    },
+    {
+        "elemento": "Xe",
+        "protons": 54,
+        "neutrons": 77,
+        "eletrons": 54,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            26
+        ]
+    },
+    {
+        "elemento": "Cs",
+        "protons": 55,
+        "neutrons": 78,
+        "eletrons": 55,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            27
+        ]
+    },
+    {
+        "elemento": "Ba",
+        "protons": 56,
+        "neutrons": 81,
+        "eletrons": 56,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            28
+        ]
+    },
+    {
+        "elemento": "La",
+        "protons": 57,
+        "neutrons": 82,
+        "eletrons": 57,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            29
+        ]
+    },
+    {
+        "elemento": "Ce",
+        "protons": 58,
+        "neutrons": 82,
+        "eletrons": 58,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            30
+        ]
+    },
+    {
+        "elemento": "Pr",
+        "protons": 59,
+        "neutrons": 82,
+        "eletrons": 59,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            31
+        ]
+    },
+    {
+        "elemento": "Nd",
+        "protons": 60,
+        "neutrons": 84,
+        "eletrons": 60,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32
+        ]
+    },
+    {
+        "elemento": "Pm",
+        "protons": 61,
+        "neutrons": 84,
+        "eletrons": 61,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            1
+        ]
+    },
+    {
+        "elemento": "Sm",
+        "protons": 62,
+        "neutrons": 88,
+        "eletrons": 62,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            2
+        ]
+    },
+    {
+        "elemento": "Eu",
+        "protons": 63,
+        "neutrons": 89,
+        "eletrons": 63,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            3
+        ]
+    },
+    {
+        "elemento": "Gd",
+        "protons": 64,
+        "neutrons": 93,
+        "eletrons": 64,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            4
+        ]
+    },
+    {
+        "elemento": "Tb",
+        "protons": 65,
+        "neutrons": 94,
+        "eletrons": 65,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            5
+        ]
+    },
+    {
+        "elemento": "Dy",
+        "protons": 66,
+        "neutrons": 97,
+        "eletrons": 66,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            6
+        ]
+    },
+    {
+        "elemento": "Ho",
+        "protons": 67,
+        "neutrons": 98,
+        "eletrons": 67,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            7
+        ]
+    },
+    {
+        "elemento": "Er",
+        "protons": 68,
+        "neutrons": 99,
+        "eletrons": 68,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            8
+        ]
+    },
+    {
+        "elemento": "Tm",
+        "protons": 69,
+        "neutrons": 100,
+        "eletrons": 69,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            9
+        ]
+    },
+    {
+        "elemento": "Yb",
+        "protons": 70,
+        "neutrons": 103,
+        "eletrons": 70,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            10
+        ]
+    },
+    {
+        "elemento": "Lu",
+        "protons": 71,
+        "neutrons": 104,
+        "eletrons": 71,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            11
+        ]
+    },
+    {
+        "elemento": "Hf",
+        "protons": 72,
+        "neutrons": 106,
+        "eletrons": 72,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            12
+        ]
+    },
+    {
+        "elemento": "Ta",
+        "protons": 73,
+        "neutrons": 108,
+        "eletrons": 73,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            13
+        ]
+    },
+    {
+        "elemento": "W",
+        "protons": 74,
+        "neutrons": 110,
+        "eletrons": 74,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            14
+        ]
+    },
+    {
+        "elemento": "Re",
+        "protons": 75,
+        "neutrons": 111,
+        "eletrons": 75,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            15
+        ]
+    },
+    {
+        "elemento": "Os",
+        "protons": 76,
+        "neutrons": 114,
+        "eletrons": 76,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            16
+        ]
+    },
+    {
+        "elemento": "Ir",
+        "protons": 77,
+        "neutrons": 115,
+        "eletrons": 77,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            17
+        ]
+    },
+    {
+        "elemento": "Pt",
+        "protons": 78,
+        "neutrons": 117,
+        "eletrons": 78,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            18
+        ]
+    },
+    {
+        "elemento": "Au",
+        "protons": 79,
+        "neutrons": 118,
+        "eletrons": 79,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            19
+        ]
+    },
+    {
+        "elemento": "Hg",
+        "protons": 80,
+        "neutrons": 121,
+        "eletrons": 80,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            20
+        ]
+    },
+    {
+        "elemento": "Tl",
+        "protons": 81,
+        "neutrons": 123,
+        "eletrons": 81,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            21
+        ]
+    },
+    {
+        "elemento": "Pb",
+        "protons": 82,
+        "neutrons": 125,
+        "eletrons": 82,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            22
+        ]
+    },
+    {
+        "elemento": "Bi",
+        "protons": 83,
+        "neutrons": 126,
+        "eletrons": 83,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            23
+        ]
+    },
+    {
+        "elemento": "Po",
+        "protons": 84,
+        "neutrons": 125,
+        "eletrons": 84,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            24
+        ]
+    },
+    {
+        "elemento": "At",
+        "protons": 85,
+        "neutrons": 125,
+        "eletrons": 85,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            25
+        ]
+    },
+    {
+        "elemento": "Rn",
+        "protons": 86,
+        "neutrons": 136,
+        "eletrons": 86,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            26
+        ]
+    },
+    {
+        "elemento": "Fr",
+        "protons": 87,
+        "neutrons": 136,
+        "eletrons": 87,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            27
+        ]
+    },
+    {
+        "elemento": "Ra",
+        "protons": 88,
+        "neutrons": 138,
+        "eletrons": 88,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            28
+        ]
+    },
+    {
+        "elemento": "Ac",
+        "protons": 89,
+        "neutrons": 138,
+        "eletrons": 89,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            29
+        ]
+    },
+    {
+        "elemento": "Th",
+        "protons": 90,
+        "neutrons": 142,
+        "eletrons": 90,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            30
+        ]
+    },
+    {
+        "elemento": "Pa",
+        "protons": 91,
+        "neutrons": 140,
+        "eletrons": 91,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            31
+        ]
+    },
+    {
+        "elemento": "U",
+        "protons": 92,
+        "neutrons": 146,
+        "eletrons": 92,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32
+        ]
+    },
+    {
+        "elemento": "Np",
+        "protons": 93,
+        "neutrons": 144,
+        "eletrons": 93,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            1
+        ]
+    },
+    {
+        "elemento": "Pu",
+        "protons": 94,
+        "neutrons": 150,
+        "eletrons": 94,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            2
+        ]
+    },
+    {
+        "elemento": "Am",
+        "protons": 95,
+        "neutrons": 148,
+        "eletrons": 95,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            3
+        ]
+    },
+    {
+        "elemento": "Cm",
+        "protons": 96,
+        "neutrons": 151,
+        "eletrons": 96,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            4
+        ]
+    },
+    {
+        "elemento": "Bk",
+        "protons": 97,
+        "neutrons": 150,
+        "eletrons": 97,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            5
+        ]
+    },
+    {
+        "elemento": "Cf",
+        "protons": 98,
+        "neutrons": 153,
+        "eletrons": 98,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            6
+        ]
+    },
+    {
+        "elemento": "Es",
+        "protons": 99,
+        "neutrons": 153,
+        "eletrons": 99,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            7
+        ]
+    },
+    {
+        "elemento": "Fm",
+        "protons": 100,
+        "neutrons": 157,
+        "eletrons": 100,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            8
+        ]
+    },
+    {
+        "elemento": "Md",
+        "protons": 101,
+        "neutrons": 157,
+        "eletrons": 101,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            9
+        ]
+    },
+    {
+        "elemento": "No",
+        "protons": 102,
+        "neutrons": 157,
+        "eletrons": 102,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            10
+        ]
+    },
+    {
+        "elemento": "Lr",
+        "protons": 103,
+        "neutrons": 159,
+        "eletrons": 103,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            11
+        ]
+    },
+    {
+        "elemento": "Rf",
+        "protons": 104,
+        "neutrons": 163,
+        "eletrons": 104,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            12
+        ]
+    },
+    {
+        "elemento": "Db",
+        "protons": 105,
+        "neutrons": 165,
+        "eletrons": 105,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            13
+        ]
+    },
+    {
+        "elemento": "Sg",
+        "protons": 106,
+        "neutrons": 165,
+        "eletrons": 106,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            14
+        ]
+    },
+    {
+        "elemento": "Bh",
+        "protons": 107,
+        "neutrons": 163,
+        "eletrons": 107,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            15
+        ]
+    },
+    {
+        "elemento": "Hs",
+        "protons": 108,
+        "neutrons": 169,
+        "eletrons": 108,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            16
+        ]
+    },
+    {
+        "elemento": "Mt",
+        "protons": 109,
+        "neutrons": 169,
+        "eletrons": 109,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            17
+        ]
+    },
+    {
+        "elemento": "Ds",
+        "protons": 110,
+        "neutrons": 171,
+        "eletrons": 110,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18
+        ]
+    },
+    {
+        "elemento": "Rg",
+        "protons": 111,
+        "neutrons": 171,
+        "eletrons": 111,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            1
+        ]
+    },
+    {
+        "elemento": "Cn",
+        "protons": 112,
+        "neutrons": 173,
+        "eletrons": 112,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            2
+        ]
+    },
+    {
+        "elemento": "Nh",
+        "protons": 113,
+        "neutrons": 173,
+        "eletrons": 113,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            3
+        ]
+    },
+    {
+        "elemento": "Fl",
+        "protons": 114,
+        "neutrons": 175,
+        "eletrons": 114,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            4
+        ]
+    },
+    {
+        "elemento": "Mc",
+        "protons": 115,
+        "neutrons": 175,
+        "eletrons": 115,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            5
+        ]
+    },
+    {
+        "elemento": "Lv",
+        "protons": 116,
+        "neutrons": 177,
+        "eletrons": 116,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            6
+        ]
+    },
+    {
+        "elemento": "Ts",
+        "protons": 117,
+        "neutrons": 177,
+        "eletrons": 117,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            7
+        ]
+    },
+    {
+        "elemento": "Og",
+        "protons": 118,
+        "neutrons": 176,
+        "eletrons": 118,
+        "distribuicao": [
+            2,
+            8,
+            18,
+            32,
+            32,
+            18,
+            8
+        ]
+    }
+]
