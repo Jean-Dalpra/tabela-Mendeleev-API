@@ -11,16 +11,8 @@
 
 <body>
     <canvas id="star-bg"></canvas>
-    <audio id="space-audio" src="./music/starlight-harmonies-185900.mp3" autoplay loop style="display:none"></audio>
-    <script>
-        document.addEventListener('click', function playAudioOnce() {
-            const audio = document.getElementById('space-audio');
-            if (audio && audio.paused) {
-                audio.play().catch(() => { });
-            }
-            document.removeEventListener('click', playAudioOnce);
-        });
-    </script>
+    <button id="audio-control" style="border-radius: 100%; position:fixed; top: 5px; left: 15px; height: 40px; width: 40px; z-index: 100; font-size: 18px; text-align: center;">🔊</button>
+    <audio id="space-audio" src="./music/starlight-harmonies-185900.mp3" loop style="display:none"></audio>
     <div class="setatopoum"></div>
     <div class="setatopodois"></div>
     <div class="setaum"></div>

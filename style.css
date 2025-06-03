@@ -177,17 +177,8 @@ body {
 
 .atom h2 {
   text-align: center;
-  font-size: 24px;
-  color: rgb(0, 141, 206);
-  margin-top: 2px;
-  font-family: 'Segoe UI', 'Roboto', Arial, Helvetica, sans-serif;
-  text-shadow:
-    -1px -1px 0 #003366,
-    1px -1px 0 #003366,
-    -1px 1px 0 #003366,
-    -1px 1px 0 rgb(0, 118, 173),
-    0px -1px 0 rgb(0, 118, 173),
-    0px 1px 0 rgb(0, 118, 173),
-    -1px 0px 0 rgb(0, 118, 173),
-    1px 0px 0 rgb(0, 118, 173);
+  font-size: 28px;
+  color: #303030;
+  margin-top: 8px;
+
 }

@@ -55,6 +55,19 @@ function animateStars() {
 }
 animateStars();
 
+const audio = document.getElementById('space-audio');
+const audioControl = document.getElementById('audio-control');
+
+// Controle de áudio apenas pelo botão
+audioControl.addEventListener('click', () => {
+  if (audio.paused) {
+    audio.play().catch(() => {});
+    audioControl.textContent = '🔇';
+  } else {
+    audio.pause();
+    audioControl.textContent = '🔊';
+  }
+});
 
 function desenharAtomo2D({ protons, neutrons, eletrons, distribuicao }) {
 
@@ -215,15 +228,15 @@ function criarTabelaPeriodica(elementos) {
   combinacaoDiv.style.borderRadius = '10px';
   combinacaoDiv.style.background = '#fbfbfb';
   combinacaoDiv.style.padding = '10px';
-  combinacaoDiv.innerHTML = '<strong style="font-size: 23px;">Arraste Elementos Aqui!</strong><div id="elementos-combinados" style="margin-top:10px; min-height:40px;"></div>';
+  combinacaoDiv.innerHTML = '<strong style="font-size: 23px;">Selecione os elementos</strong><div id="elementos-combinados" style="margin-top:10px; min-height:40px;"></div>';
   document.body.appendChild(combinacaoDiv);
 
   // Botão resultado
   const btnCombinar = document.createElement('button');
   btnCombinar.textContent = 'Combinar!';
   btnCombinar.style.position = 'absolute';
-  btnCombinar.style.top = '167px'; // ajuste conforme o visual desejado
-  btnCombinar.style.left = '10px'; // ajuste conforme o visual desejado
+  btnCombinar.style.top = '167px'; 
+  btnCombinar.style.left = '10px'; 
   btnCombinar.style.borderRadius = '5px';
   btnCombinar.style.padding = '5px';
   btnCombinar.style.cursor = 'pointer';
