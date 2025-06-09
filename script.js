@@ -1,4 +1,4 @@
-//estrelas show
+//estrelas muito bacanudas
 
 const starCanvas = document.createElement('canvas');
 starCanvas.id = 'star-bg';
@@ -58,7 +58,7 @@ animateStars();
 const audio = document.getElementById('space-audio');
 const audioControl = document.getElementById('audio-control');
 
-// Controle de áudio apenas pelo botão
+// Controle de áudio só pelo botão
 audioControl.addEventListener('click', () => {
   if (audio.paused) {
     audio.play().catch(() => {});
@@ -71,7 +71,7 @@ audioControl.addEventListener('click', () => {
 
 function desenharAtomo2D({ protons, neutrons, eletrons, distribuicao }) {
 
-  // átomo 2D 
+  // átomo 2D que simula o 3d
   let atom2dContainer = document.getElementById('atom-2d-container');
   if (!atom2dContainer) {
     atom2dContainer = document.createElement('div');
@@ -98,7 +98,7 @@ function desenharAtomo2D({ protons, neutrons, eletrons, distribuicao }) {
 
   const cx = size / 2, cy = size / 2;
 
-  // Núcleo
+  // Núcleo que muda cada vez
   const totalNucleo = protons + neutrons;
   const nucleons = [];
   for (let i = 0; i < protons; i++) nucleons.push({ tipo: 'proton' });
@@ -109,7 +109,7 @@ function desenharAtomo2D({ protons, neutrons, eletrons, distribuicao }) {
     [nucleons[i], nucleons[j]] = [nucleons[j], nucleons[i]];
   }
 
-  const raioNucleo = 18; // raio máximo do núcleo
+  const raioNucleo = 18; // raio máximo
   nucleons.forEach(nuc => {
     const ang = Math.random() * 2 * Math.PI;
     const r = Math.sqrt(Math.random()) * raioNucleo * 0.85;
